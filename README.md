@@ -9,7 +9,7 @@ Chuyên làm game & tool cho cộng đồng game thủ Việt — không lệ th
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/CongPhuongInfo/)](https://github.com/CongPhuongInfo/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab&link=https://gitlab.com/2CongLC)](https://gitlab.com/2CongLC)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/2CongLC.vn)](https://facebook.com/2CongLC.vn)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cong.chu.574336)](https://www.facebook.com/cong.chu.574336)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2conglc.vn@gmail.com)](mailto:2conglc.vn@gmail.com)
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-f57c00?style=flat-square&logo=blogger&logoColor=white&link=https://2conglc-ai.blogspot.com/)](https://2conglc-ai.blogspot.com/)
 
