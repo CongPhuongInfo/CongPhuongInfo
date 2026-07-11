@@ -69,13 +69,11 @@ Bộ GUI tool giải nén – đóng gói – xem/sửa các định dạng arch
 
 ---
 
-📝 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Windows Repair](https://2conglc-vn.blogspot.com/2020/05/visual-basic-windows-repair.html)
-- [Network Repair](https://2conglc-vn.blogspot.com/2020/11/network-adapter-repair-cong-cu-sua-loi.html)
-- [Visual Basic Script](https://2conglc-vn.blogspot.com/2020/11/tien-ich-vbscript-hay-danh-cho-pc.html)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="fansipan-icon.svg" width="90" alt="Fansipan"><br>
+  <b>📍 Bắc Cường, Phường Cam Đường, Tỉnh Lào Cai, Việt Nam</b><br>
+  <img src="https://img.shields.io/badge/Lào_Cai-Online-2E8B57?style=for-the-badge&logo=mountain&logoColor=white" alt="Lào Cai Online">
+</p>
 
 <br>
 

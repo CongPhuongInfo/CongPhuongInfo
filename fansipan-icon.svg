@@ -1,0 +1,42 @@
+<svg width="200" height="160" viewBox="0 0 200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#bfe3f0"/>
+      <stop offset="100%" stop-color="#eaf7fb"/>
+    </linearGradient>
+    <linearGradient id="peakFar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7a9bb0"/>
+      <stop offset="100%" stop-color="#a9c3d1"/>
+    </linearGradient>
+    <linearGradient id="peakNear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f5d4f"/>
+      <stop offset="100%" stop-color="#3f7a63"/>
+    </linearGradient>
+    <linearGradient id="snow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#dfeef5"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="200" height="160" fill="url(#sky)"/>
+
+  <!-- dãy núi xa -->
+  <polygon points="0,110 35,60 70,100 100,50 135,95 165,65 200,105 200,160 0,160"
+           fill="url(#peakFar)" opacity="0.55"/>
+
+  <!-- đỉnh Fansipan chính -->
+  <polygon points="100,18 130,75 150,60 190,140 10,140 55,68 75,82"
+           fill="url(#peakNear)"/>
+
+  <!-- tuyết đỉnh núi -->
+  <polygon points="100,18 112,42 100,50 88,42" fill="url(#snow)"/>
+  <polygon points="55,68 65,84 55,90 45,84" fill="url(#snow)" opacity="0.9"/>
+
+  <!-- cột mốc chinh phục 3143m -->
+  <rect x="97" y="4" width="3" height="16" fill="#8a5a3c"/>
+  <polygon points="100,4 112,9 100,14" fill="#c0392b"/>
+
+  <!-- mây -->
+  <ellipse cx="35" cy="112" rx="28" ry="7" fill="#ffffff" opacity="0.75"/>
+  <ellipse cx="150" cy="118" rx="34" ry="8" fill="#ffffff" opacity="0.75"/>
+</svg>
