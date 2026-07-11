@@ -77,6 +77,3 @@ Bộ GUI tool giải nén – đóng gói – xem/sửa các định dạng arch
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/shacojx/shacojx/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
